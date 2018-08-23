@@ -1,5 +1,12 @@
 <?php
 error_reporting(0);
+//WebTools by wEbCoAdEr
+//Contact me: https://facebook.com/wEbCoAdEr
+//You can edit or modify this script. 
+//Dont clone code or logic from this script
+//Dont change the copyright information
+//Respect programmers
+//Cloning of code doesnt changes someone to a programmer
 //Get your api key from https://reverse-ip-api.whoisxmlapi.com/products
 define("API_KEY1", "");
 echo "__        __   _   _____           _  " . "\n";   
