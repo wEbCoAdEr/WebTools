@@ -3,7 +3,7 @@ ini_set('max_execution_time', 0);
 ini_set('memory_limit', -1);
 error_reporting(0);
 //Get your api key from https://reverse-ip-api.whoisxmlapi.com/products
-define("API_KEY1", "at_K3FwgGMbQ1MQIt2kQxVV00uRfRBK7");
+define("API_KEY1", "");
 echo "__        __   _   _____           _  " . "\n";
 echo "\ \      / /__| |_|_   _|__   ___ | |___ " . "\n";
 echo " \ \ /\ / / _ \ '_ \| |/ _ \ / _ \| / __|" . "\n";
